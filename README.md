@@ -3,7 +3,7 @@
 
 **Personal Project for AMA 106 – Introduction to Financial Economics**  
 Caraga State University | March 2026  
-Built by CJ
+Built by CJ Paulin
 
 ---
 
